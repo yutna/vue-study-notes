@@ -1,7 +1,7 @@
 <script setup>
-  import GettingThePreviousValue from "./modules/computed-properties/GettingThePreviousValue.vue";
+  import MultipleValues from "./modules/class-and-style-bindings/binding-inline-styles/MultipleValues.vue";
 </script>
 
 <template>
-  <GettingThePreviousValue />
+  <MultipleValues />
 </template>
