@@ -1,5 +1,7 @@
-<script setup></script>
+<script setup>
+  import CaveatWhenUnwrappingInTemplates from "./modules/reactivity-fundamentals/CaveatWhenUnwrappingInTemplates.vue";
+</script>
 
 <template>
-  <main></main>
+  <CaveatWhenUnwrappingInTemplates />
 </template>
