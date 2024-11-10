@@ -1,7 +1,7 @@
 <script setup>
-  import VShow from "./modules/conditional-rendering/VShow.vue";
+  import DisplayingFilteredOrSortedResults from "./modules/list-rendering/DisplayingFilteredOrSortedResults.vue";
 </script>
 
 <template>
-  <VShow />
+  <DisplayingFilteredOrSortedResults />
 </template>
