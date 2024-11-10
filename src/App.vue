@@ -1,7 +1,7 @@
 <script setup>
-  import CaveatWhenUnwrappingInTemplates from "./modules/reactivity-fundamentals/CaveatWhenUnwrappingInTemplates.vue";
+  import GettingThePreviousValue from "./modules/computed-properties/GettingThePreviousValue.vue";
 </script>
 
 <template>
-  <CaveatWhenUnwrappingInTemplates />
+  <GettingThePreviousValue />
 </template>
