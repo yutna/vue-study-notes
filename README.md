@@ -1,6 +1,6 @@
 # vue-study-notes
 
-This template should help get you started developing with Vue 3 in Vite.
+A personal archive for learning the Vue.js framework, featuring code examples, exercises, projects, and notes from books and online resources.
 
 ## Recommended IDE Setup
 
