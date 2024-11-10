@@ -1,7 +1,7 @@
 <script setup>
-  import MultipleValues from "./modules/class-and-style-bindings/binding-inline-styles/MultipleValues.vue";
+  import VShow from "./modules/conditional-rendering/VShow.vue";
 </script>
 
 <template>
-  <MultipleValues />
+  <VShow />
 </template>
