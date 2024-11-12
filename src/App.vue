@@ -1,7 +1,7 @@
 <script setup>
-  import DisplayingFilteredOrSortedResults from "./modules/list-rendering/DisplayingFilteredOrSortedResults.vue";
+  import CallingMethodInInlineHandlers from "./modules/event-handling/CallingMethodInInlineHandlers.vue";
 </script>
 
 <template>
-  <DisplayingFilteredOrSortedResults />
+  <CallingMethodInInlineHandlers />
 </template>
