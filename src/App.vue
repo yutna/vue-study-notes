@@ -1,5 +1,5 @@
 <script setup>
-  import CallingMethodInInlineHandlers from "./modules/event-handling/CallingMethodInInlineHandlers.vue";
+  import CallingMethodInInlineHandlers from "./topics/event-handling/CallingMethodInInlineHandlers.vue";
 </script>
 
 <template>
