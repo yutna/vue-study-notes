@@ -1,7 +1,7 @@
 <script setup>
-  import TrimModifier from "./topics/form-input-bindings/TrimModifier.vue";
+  import RegisteringLifecycleHooks from "./topics/lifecycle-hooks/RegisteringLifecycleHooks.vue";
 </script>
 
 <template>
-  <TrimModifier />
+  <RegisteringLifecycleHooks />
 </template>
