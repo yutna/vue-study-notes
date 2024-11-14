@@ -1,7 +1,7 @@
 <script setup>
-  import RegisteringLifecycleHooks from "./topics/lifecycle-hooks/RegisteringLifecycleHooks.vue";
+  import SideEffectCleanup from "./topics/watchers/SideEffectCleanup.vue";
 </script>
 
 <template>
-  <RegisteringLifecycleHooks />
+  <SideEffectCleanup />
 </template>
