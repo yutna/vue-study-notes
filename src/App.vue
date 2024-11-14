@@ -1,7 +1,7 @@
 <script setup>
-  import CallingMethodInInlineHandlers from "./topics/event-handling/CallingMethodInInlineHandlers.vue";
+  import TrimModifier from "./topics/form-input-bindings/TrimModifier.vue";
 </script>
 
 <template>
-  <CallingMethodInInlineHandlers />
+  <TrimModifier />
 </template>
