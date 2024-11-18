@@ -1,7 +1,7 @@
 <script setup>
-  import SideEffectCleanup from "./topics/watchers/SideEffectCleanup.vue";
+  import RefOnComponent from "./topics/template-refs/RefOnComponent.vue";
 </script>
 
 <template>
-  <SideEffectCleanup />
+  <RefOnComponent />
 </template>
