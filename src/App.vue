@@ -1,7 +1,7 @@
 <script setup>
-  import RefOnComponent from "./topics/template-refs/RefOnComponent.vue";
+  import DynamicComponents from "./topics/components-basics/DynamicComponents.vue";
 </script>
 
 <template>
-  <RefOnComponent />
+  <DynamicComponents />
 </template>
